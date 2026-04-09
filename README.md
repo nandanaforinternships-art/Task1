@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project focuses on cleaning and preprocessing raw data to make it suitable for machine learning models. The Titanic dataset is used as an example.
+This project focuses on cleaning and preprocessing raw data to make it suitable for machine learning models. 
 
 ## Objective
 
